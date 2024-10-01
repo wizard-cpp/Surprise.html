@@ -5,7 +5,7 @@
   font-family: "Poppins", sans-serif;
 }
 body {
-  background-image: url("Untitled design.png");
+  background-image: url("https://github.com/wizard-cpp/Surprise200105.github.io/blob/main/Untitled%20design.png");
   background-size: cover;
 }
 .card {
@@ -63,7 +63,7 @@ body {
   transform: rotateX(0deg);
 }
 .front {
-  background-image: url("background-template-with-mandala-pattern-design_1308-42133.png");
+  
   background-size: cover;
 }
 .back {
